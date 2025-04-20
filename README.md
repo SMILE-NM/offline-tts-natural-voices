@@ -79,6 +79,3 @@ engine.runAndWait()
 
 Created with ❤️ by **SMILE-NM** 😊
 
-Check out my GitHub: [github.com/SMILE-NM](https://github.com/SMILE-NM)
-
-If you found this project useful, please ⭐️ it on GitHub!
